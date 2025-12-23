@@ -1,0 +1,12 @@
+mlruns/
+data/
+logs/
+*.joblib
+mlflow.db
+.patrol/
+artifacts/
+_pycache__/
+Lib/
+Scripts/
+src/__pycache__/
+share/
